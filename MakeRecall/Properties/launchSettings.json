@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MakeRecall (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MakeRecall (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
